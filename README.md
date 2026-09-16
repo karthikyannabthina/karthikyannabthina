@@ -9,14 +9,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&letterSpacing=2&duration=2500&pause=1000&color=58A6FF&center=true&width=700&height=50&lines=Building+Products%2C+Not+Just+Projects;Engineering+Systems+That+Solve+Real+Problems;Frontend+%C2%B7+Backend+%C2%B7+APIs+%C2%B7+Real-Time+Systems)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/S-ABISHEAK)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakabisheak@gmail.com)
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_HUGGINGFACE_URL">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
-
 
 ## 💫 About Me
 
@@ -40,7 +45,6 @@ I prefer to start with:
 **Problem → Users → Requirements → System Design → Implementation → Trade-offs**
 
 Then build the simplest system that actually solves the problem.
-
 
 ## 🧠 Engineering Mindset
 
@@ -94,7 +98,6 @@ I try to understand:
 
 **What does it cost?**
 
-
 ## 🚀 Projects
 
 ### 📈 Trade X — Real-Time Trading Platform
@@ -120,7 +123,6 @@ of a modern brokerage product.
 > How should a trading platform behave when prices change,
 > orders are submitted, data becomes stale, or services fail?
 
-
 ### 🔎 Job Discovery Platform
 
 A job discovery system designed to reduce the repetitive work
@@ -139,7 +141,6 @@ creates repetitive manual work.
 - Deduplication
 - API integration
 - Refresh-based discovery
-
 
 ## 🛠️ Tech Stack
 
@@ -187,7 +188,6 @@ creates repetitive manual work.
   </tr>
 </table>
 
-
 ## 🔍 How I Approach Projects
 
 ```text
@@ -204,9 +204,3 @@ Build MVP
 Test Failure Cases
    ↓
 Measure & Improve
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
