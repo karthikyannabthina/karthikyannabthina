@@ -11,7 +11,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/S-ABISHEAK)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakabisheak@gmail.com)
 
 </div>
 
@@ -31,8 +33,7 @@ My approach combines:
 - Real-time systems
 - Performance and reliability
 
-I don't want to build applications just to demonstrate a
-technology.
+I don't build applications just to demonstrate a technology.
 
 I prefer to start with:
 
@@ -94,9 +95,9 @@ I try to understand:
 **What does it cost?**
 
 
-## 🚀 What I'm Building
+## 🚀 Projects
 
-### Trade X — Real-Time Trading Platform
+### 📈 Trade X — Real-Time Trading Platform
 
 A full-stack trading platform designed around the workflows
 of a modern brokerage product.
@@ -119,9 +120,8 @@ of a modern brokerage product.
 > How should a trading platform behave when prices change,
 > orders are submitted, data becomes stale, or services fail?
 
----
 
-### Job Discovery Platform
+### 🔎 Job Discovery Platform
 
 A job discovery system designed to reduce the repetitive work
 of searching across multiple job platforms.
@@ -133,12 +133,12 @@ creates repetitive manual work.
 
 **Engineering focus:**
 
-- Job aggregation
-- Keyword-based discovery
-- API integration
+- Keyword-based job discovery
+- Multiple job sources
 - Filtering
 - Deduplication
-- Refresh-based job discovery
+- API integration
+- Refresh-based discovery
 
 
 ## 🛠️ Tech Stack
@@ -204,3 +204,9 @@ Build MVP
 Test Failure Cases
    ↓
 Measure & Improve
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
